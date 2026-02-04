@@ -61,15 +61,13 @@ def check_ej7(primo):
     _assert(callable(primo), "primo debe ser callable")
 
     # Caso positivo
-    x = 23
-    y = primo(x)
-    _assert(isinstance(y, True), "para n=23 debe devolver True")
+    y = primo(23)
+    _assert(y is True, "para n=23 debe devolver True")
 
-    # Caso borde x=1
+    # Caso borde
     y0 = primo(1)
-    _assert(isinstance(y0, False), "para n=1 debe devolver False")
+    _assert(y0 is False, "para n=1 debe devolver False")
 
-    # Negativo: debe devolver None
-    x = 87
-    y = primo(x)
-    _assert(isinstance(y, False), "para n=87 debe devolver False")
+    # Caso negativo
+    y = primo(87)
+    _assert(y is False, "para n=87 debe devolver False")
