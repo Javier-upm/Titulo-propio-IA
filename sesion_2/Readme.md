@@ -1,6 +1,8 @@
 # Sesión 2
 Introducción al Machine Learning
 
+Test: https://forms.gle/hAhYjbtLBeb12AVr7
+
 Trabajando con datos
 
 Enlace al colab
@@ -10,10 +12,3 @@ El notebook se abre en Colab (modo solo lectura)
 
 El alumno hace: Archivo → Guardar una copia en Drive
 
-A partir de ahí:
-
-Puede modificar el notebook
-
-No afecta a tu GitHub
-
-Cada alumno trabaja de forma independiente
