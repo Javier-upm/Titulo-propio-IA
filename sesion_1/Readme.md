@@ -11,11 +11,3 @@ El notebook se abre en Colab (modo solo lectura)
 
 El alumno hace:
 Archivo → Guardar una copia en Drive
-
-A partir de ahí:
-
-Puede modificar el notebook
-
-No afecta a tu GitHub
-
-Cada alumno trabaja de forma independiente
