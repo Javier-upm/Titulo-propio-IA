@@ -1,2 +1,4 @@
 # Sesión 2
-Python básico con Google Colab
+Introducción al Machine Learning 
+Trabajando con datos 
+Enlace al colab
