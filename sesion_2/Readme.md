@@ -1,6 +1,8 @@
 # Sesión 2
 Introducción al Machine Learning
 
+https://docs.google.com/forms/d/e/1FAIpQLSelb3lav9OEOCVyQvAjWDiC863CQaHPoIah4dALjz1lSX7nWQ/viewform?usp=sharing&ouid=101704465986903595302
+
 Trabajando con datos
 
 Enlace al colab
