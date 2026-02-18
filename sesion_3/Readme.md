@@ -1,2 +1,2 @@
 # Sesión 3
-Python básico con Google Colab
+Comienzo Regresión Lineal
